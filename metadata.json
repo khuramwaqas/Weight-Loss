@@ -1,0 +1,5 @@
+{
+  "name": "Weight Loss Tracker",
+  "description": "A modern, visually appealing application to track your weight loss journey. Log your weight, visualize progress with an interactive chart, and receive motivational tips powered by Gemini AI.",
+  "requestFramePermissions": []
+}
